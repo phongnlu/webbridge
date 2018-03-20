@@ -7,11 +7,11 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		3E4252302057481D00297DCC /* SwiftyJSON.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3E5723252050D92600479379 /* SwiftyJSON.framework */; };
 		3E5723142050D2CC00479379 /* WebBridge.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3E57230A2050D2CC00479379 /* WebBridge.framework */; };
 		3E5723192050D2CC00479379 /* WebBridgeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E5723182050D2CC00479379 /* WebBridgeTests.swift */; };
 		3E57231B2050D2CC00479379 /* WebBridge.h in Headers */ = {isa = PBXBuildFile; fileRef = 3E57230D2050D2CC00479379 /* WebBridge.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		3E6C7E74205B3C38003FF068 /* WebBridgeDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E6C7E73205B3C38003FF068 /* WebBridgeDelegate.swift */; };
+		3E867D362061A99600C10A28 /* SwiftyJSON.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3E5723252050D92600479379 /* SwiftyJSON.framework */; };
 		3EBFE546205850780018AB65 /* WebBridgeConstants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3EBFE544205850770018AB65 /* WebBridgeConstants.swift */; };
 		3EBFE547205850780018AB65 /* WebBridge.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3EBFE545205850780018AB65 /* WebBridge.swift */; };
 		3EBFE549205852580018AB65 /* WebBridgeUtil.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3EBFE548205852570018AB65 /* WebBridgeUtil.swift */; };
@@ -48,7 +48,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3E4252302057481D00297DCC /* SwiftyJSON.framework in Frameworks */,
+				3E867D362061A99600C10A28 /* SwiftyJSON.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
