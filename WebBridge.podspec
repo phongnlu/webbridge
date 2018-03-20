@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name = "WebBridge"
-  spec.version = "1.0.0"
+  spec.version = "0.0.1"
   spec.summary = "Enable 2 way communication between a remote webapp and native code"
   spec.homepage = "https://github.com/phongnlu/webbridge"
   spec.license = { type: 'MIT', file: 'LICENSE' }
